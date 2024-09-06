@@ -1,8 +1,8 @@
-# 💫About Me :
-## 🔆 Final Vocabulary: 성장
-🔭 I’m currently working on BioSignal, Medical Image Analysis, Statistics
-🌱 I’m currently learning Brain & Cognitive Engineering
-📫 How to reach me: koko5337@naver.com koko4063@gmail.com
+# 💫About Me : <br>
+## 🔆 Final Vocabulary: 성장 <br>
+🔭 I’m currently working on BioSignal, Medical Image Analysis, Statistics <br>
+🌱 I’m currently learning Brain & Cognitive Engineering <br>
+📫 How to reach me: koko5337@naver.com koko4063@gmail.com <br>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yeon_eve) 
