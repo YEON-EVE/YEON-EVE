@@ -1,5 +1,5 @@
 # 💫About Me : <br>
-## 🔆 Final Vocabulary: 성장 <br>
+
 🔭 I’m currently working on BioSignal, Medical Image Analysis, Statistics <br>
 🌱 I’m currently learning Brain & Cognitive Engineering <br>
 📫 How to reach me: koko5337@naver.com koko4063@gmail.com <br>
