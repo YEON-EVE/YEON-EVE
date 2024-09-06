@@ -4,6 +4,10 @@
 🌱 I’m currently learning Brain & Cognitive Engineering <br>
 📫 How to reach me: koko5337@naver.com koko4063@gmail.com <br>
 
+# 💡Project
+# 🫀    🩻    🗺️⛽    ![🧠뇌(120 x 120)](https://github.com/user-attachments/assets/2d07fdfb-92fb-427d-b9a0-f35cdb9f0394)
+
+
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yeon_eve) 
 
