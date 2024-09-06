@@ -1,5 +1,7 @@
 //처음에 자신을 표현하는 캐치프레이즈가 있으면 좋을 것 같아요!
 
+<img src='./uploads/프론트엔드 개발자.png'>
+
 <h2> 💫About Me :</h2>
 <p>
     🔭 I’m currently working on BioSignal, Medical Image Analysis, Statistics<br>
