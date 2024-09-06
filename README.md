@@ -5,7 +5,7 @@
 📫 How to reach me: koko5337@naver.com koko4063@gmail.com <br>
 
 # 💡Project
-# 🫀    🩻    🗺️⛽    ![🧠뇌(120 x 120)](https://github.com/user-attachments/assets/2d07fdfb-92fb-427d-b9a0-f35cdb9f0394)
+# 🫀    🩻    🗺️⛽    🧠
 
 
 ## 🌐Socials
