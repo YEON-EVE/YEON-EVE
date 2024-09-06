@@ -5,7 +5,7 @@
 📫 How to reach me: koko5337@naver.com koko4063@gmail.com <br>
 
 # 💡Project
-# 🫀    🩻    🗺️⛽    🧠
+# 🫀 🩻 🗺️⛽ 🧠
 
 
 ## 🌐Socials
