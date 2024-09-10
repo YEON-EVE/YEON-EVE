@@ -10,11 +10,10 @@
 
 <h2> 💡Project</h2>
 <p>
-    🫀 Project1 - This is description of project1<br>
-    🩻 Project2 - This is description of project2<br>
-    🗺️ Project3 - This is description of project3<br>
-    ⛽ Project4 - This is description of project4<br>
-    🧠 Project5 - This is description of project5<br>
+    🫀 심전도 분류 연구<br>
+    🩻 초음파 이미지 품질 분류 모델 개발<br>
+    🗺️⛽ 공간 데이터를 활용한 최적 입지 선정 알고리즘 개발<br>
+    🧠 뇌파 데이터의 변동성 연구<br>
 </p>
 
 
