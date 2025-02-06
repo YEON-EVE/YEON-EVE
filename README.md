@@ -31,6 +31,6 @@
 <h2> 🌐Socials</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yeon_eve) 
-[![Instagram](https://img.shields.io/badge/Tistory-000000?logo=Tistory&logoColor=white)](eve-ai-stat.tistory.com)
+[![Instagram](https://img.shields.io/badge/Tistory-000000?logo=Tistory&logoColor=white)](https://eve-ai-stat.tistory.com/)
 
     
